@@ -1,0 +1,54 @@
+- title: GIS术语
+  items:
+    - id: data-management
+      title: 数据管理
+      href: /zh/terms/terms#data-management
+      forceInternal: true
+      subitems:
+        - id: datasettype
+          title: 数据集类型
+          href: /zh/terms/terms#datasettype
+          forceInternal: true
+        - id: edit-objects
+          title: 对象编辑
+          href: /zh/terms/terms#edit-objects
+          forceInternal: true
+        - id: table-attribute-information
+          title: 表和属性信息
+          href: /zh/terms/terms#table-attribute-information
+          forceInternal: true
+    # - id: term-display
+    #   title: 术语展现形式
+    #   href: /zh/terms/terms#term-display
+    # - id: term-type
+    #   title: 术语类型规范
+    #   href: /zh/terms/terms#term-type
+    #   forceInternal: true
+    #   subitems:
+    #     - id: terms
+    #       title: 专业术语
+    #       href: /zh/terms/terms#terms
+    #       forceInternal: true
+    #     - id: writing-style
+    #       title: 行文风格
+    #       href: /zh/terms/terms#writing-style
+    #       forceInternal: true
+    #     - id: word-amount
+    #       title: 术语描述文字量
+    #       href: /zh/terms/terms#word-amount
+    #       forceInternal: true
+    #     - id: redundancy
+    #       title: 避免冗余
+    #       href: /zh/terms/terms#redundancyl
+    #       forceInternal: true
+    #     - id: term-maintain
+    #       title: 术语维护
+    #       href: /zh/terms/terms#term-maintain
+    #       forceInternal: true
+    # - id: term-cooperation
+    #   title: 术语表协作
+    #   href: /zh/terms/terms#term-cooperation
+    # - id: term-writing-template
+    #   title: 术语表书写模板
+    #   href: /zh/terms/term-writing-template    
+    

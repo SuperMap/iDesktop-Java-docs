@@ -1,0 +1,24 @@
+- title: GIS术语
+  items:
+    - id: data-management
+      title: 数据管理
+      href: /zh/terms/terms#data-management
+      forceInternal: true
+      subitems:
+        - id: datasettype
+          title: 数据集类型
+          href: /zh/terms/terms#datasettype
+          forceInternal: true
+        - id: map
+          title: 地图
+          href: /zh/terms/terms#map
+          forceInternal: true
+        - id: edit-objects
+          title: 对象编辑
+          href: /zh/terms/terms#edit-objects
+          forceInternal: true
+        - id: table-attribute-information
+          title: 表和属性信息
+          href: /zh/terms/terms#table-attribute-information
+          forceInternal: true
+   

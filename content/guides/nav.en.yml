@@ -1,0 +1,27 @@
+- title: Welcome
+  items:
+    - id: getting-started
+      title: Welcome
+    - id: License
+      title: License
+    - id: License
+      title: License(Windows)
+    - id: License
+      title: License(Linux)
+- title: New Feature
+  items:
+    - id: what's_new_in_901
+      title: 901 New Feature
+    - id: what's_new_in_900
+      title: 9D New Feature
+    - id: what's_new_910
+      title: 8C New Feature
+- title: Getting-started
+  items:
+    - id: SuperMapDataStructure
+      title: Data Organization Structure in SuperMap
+    - id: Pyramid
+      title: Image pyramids
+    - id: GeoFormates
+      title: Supported Data Formats 
+
